@@ -1,6 +1,6 @@
 # Olá, eu sou a Maria Eduarda 👋
 
-🎓 Estudante de **Ciência da Computação** na Cruzeiro do Sul Virtual  
+🎓 Estudante de **Ciência da Computação** na Cruzeiro do Sul  
 💼 Atualmente trabalho como **Agente de Check-in na Air Canada**  
 💡 Interesses: **Cibersegurança, Modelagem de Dados e Desenvolvimento Web**  
 🚀 Sempre em busca de aprender, compartilhar conhecimento e evoluir na área de tecnologia  
