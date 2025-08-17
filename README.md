@@ -17,8 +17,7 @@
 
 ### 📫 Como me encontrar:
 - LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/maria-eduarda-gonçalves-dias-3a6674311)  
-- GitHub: [Meu GitHub](https://github.com/SEU-USUARIO)  
-- ✉️ E-mail: madu19.dias@outlook.com
+- ✉ E-mail: madu19.dias@outlook.com
 
 ---
 
