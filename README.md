@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou a Maria Eduarda 👋
 
-<!--
-**maria-eduarda-goncalves-dias/maria-eduarda-goncalves-dias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Ciência da Computação** na Cruzeiro do Sul Virtual  
+💼 Atualmente trabalho como **Agente de Check-in na Air Canada**  
+💡 Interesses: **Cibersegurança, Modelagem de Dados e Desenvolvimento Web**  
+🚀 Sempre em busca de aprender, compartilhar conhecimento e evoluir na área de tecnologia  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Tecnologias que estou aprendendo:
+- Python  
+- HTML | CSS | JavaScript  
+- Git e GitHub  
+- Modelagem de Dados  
+
+---
+
+### 📫 Como me encontrar:
+- LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/maria-eduarda-gonçalves-dias-3a6674311)  
+- GitHub: [Meu GitHub](https://github.com/SEU-USUARIO)  
+- ✉️ E-mail: SEUEMAIL@email.com  
+
+---
+
+✨ “A tecnologia move o mundo, e o aprendizado constante move a tecnologia.”
